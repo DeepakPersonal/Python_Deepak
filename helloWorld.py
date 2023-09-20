@@ -1,3 +1,2 @@
-for i in range(1, 6):
+for i in range(5):
     print("{0}-Hello World!".format(i))
-    
