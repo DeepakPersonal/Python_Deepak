@@ -1,2 +1,2 @@
-for i in range(5):
-    print("{0}-Hello World!".format(i))
+for i in range(1, 6):
+	print ("{}- Hello Deepak".format(i))
